@@ -6,7 +6,7 @@
 
 ## Description
 
-_This file covers block elements and inline elements learned to date.  It should also be representative of good indentation practices. _
+_This file covers block elements and inline elements learned to date.  It should also be representative of good indentation practices._
 
 ## Setup/Installation Requirements
 
